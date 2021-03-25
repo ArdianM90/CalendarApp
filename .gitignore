@@ -39,5 +39,5 @@ out/
 
  **/out/
  **/build/
- .tokens
+ tokens
 
